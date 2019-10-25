@@ -1,6 +1,6 @@
 # Notes from meeting on 9/11/19 
 
-1. The app will be a "remote"
+1. ## The app will be a "remote"
 
 2. The app will connect to headphones:
   - Bluetooth to multiple devices
