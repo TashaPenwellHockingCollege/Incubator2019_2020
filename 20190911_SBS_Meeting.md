@@ -1,18 +1,20 @@
-# The app will be a "remote"
+# Notes from meeting on 9/11/19 
 
-# The app will connect to headphones
-  -Bluetooth to multiple devices
-  -Aftershokz headphones brand
-  
-# Concerns
-  -Bluetooth strength and barriers (walls, distance, etc)
-  
+1. The app will be a "remote"
 
-# Styling
-  -Like the black/white colors
-  -Like being able to see the audio 
+2. The app will connect to headphones
+  *Bluetooth to multiple devices
+  *Aftershokz headphones brand
+  
+3. Concerns
+  *Bluetooth strength and barriers (walls, distance, etc)
   
 
-# Function
-  -Want the user to be able to mix/customize individual sounds
+4. Styling
+  *Like the black/white colors
+  *Like being able to see the audio 
+  
+
+5. Function
+  *Want the user to be able to mix/customize individual sounds
   
