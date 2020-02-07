@@ -8,7 +8,7 @@
  - Agreed to host of AWS
  
 # Soentra Logo
-  -Doesn't have one.  We (i.e. Gabe) can design if want to
+  - Doesn't have one.  We (i.e. Gabe) can design if want to
   
 # PWA details
  - use the starbricksound.net info and images for the app
