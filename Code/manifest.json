@@ -1,0 +1,21 @@
+{
+  "name": "Soentra",
+  "short_name": "Soentra",
+  "description": "Mixing sounds together to create an audio environment that can be used for training purposes.",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#4682B4",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#000000"
+}
